@@ -166,4 +166,4 @@ Just modify the Docker Hub registry credentials and add the following secrets un
 
 <img width="1241" alt="image" src="https://github.com/ajeetraina/scout-demo-service/assets/313480/1c5638ef-594e-4b4f-b6ac-7fe9ee839774">
 
-
+test PR for non critical branch
